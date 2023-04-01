@@ -36,8 +36,8 @@ body {
     background-size: cover;
     background-position: center;
     margin: 20px;    
-    background-image: url("../b/rd.JPG");
-    /*background-color: black;*/
+    background-color: black;    
+    /*background-image: url("../b/rd.JPG");*/
 
 }
 .navbar{
