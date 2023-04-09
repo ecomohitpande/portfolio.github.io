@@ -34,7 +34,8 @@ body {
     background-position: center;
     margin: 20px;    
     /* background-color: black;*/
-    background-image: url("../b/rd.jpg");
+    background-image: url("b/rd.jpg");
+   
 
 }
 .navbar{
