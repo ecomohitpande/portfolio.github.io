@@ -11,7 +11,8 @@ body {
     margin-top: 20px;
     font-style: italic;
     color: rgb(21, 19, 170);
-   animation: blinker 1s infinite;
+    animation: blinker 1s infinite;
+    text-align: center;
 }
  
 @keyframes blinker {
@@ -21,9 +22,8 @@ body {
 }
 
 .head2 {
-    font-style: italic;
-    justify-items: left;
-    justify-content: center;
+      font-style: italic;
+    text-align: center;
 }
 
 .banner{
